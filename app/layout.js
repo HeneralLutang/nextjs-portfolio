@@ -13,7 +13,7 @@ const geistMono = localFont({
 });
 
 export const metadata = {
-  title: "Portfolio",
+  title: "Carl Andrew",
   description: "Your personal Slave",
 };
 
