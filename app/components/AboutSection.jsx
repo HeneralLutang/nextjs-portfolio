@@ -40,7 +40,7 @@ const TAB_DATA = [
       <ul className="list-disc pl-2">
         <li>Eastern Visayas State University Philippines
         <span className="border-b-2 border-[#2ebf91]">
-          </br> -  {" "}
+          <br /> -  {" "}
             Bachelor of Science in Information Technology
           </span>
         </li>
