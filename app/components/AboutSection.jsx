@@ -30,6 +30,10 @@ const TAB_DATA = [
             Adobe Photoshop, Canva & Figma{" "}
           </span>
         </li>
+          <li>
+          <span className="border-b-2 border-[#2ebf91]">SEO</span> -
+          Keyword Research & Analysis, On-Page SEO, & SEO Tools & Analytics
+        </li>
       </ul>
     ),
   },
